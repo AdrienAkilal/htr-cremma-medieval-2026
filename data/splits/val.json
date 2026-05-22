@@ -1,0 +1,7136 @@
+[
+  {
+    "line_id": "eSc_line_d644b498",
+    "text": "je ne me souviens pas [?] si je võ ay",
+    "polygon": [
+      [
+        1271,
+        1109
+      ],
+      [
+        4188,
+        1109
+      ],
+      [
+        4188,
+        1371
+      ],
+      [
+        1271,
+        1371
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_d0d22cfb",
+    "text": "envoyé ung memoire du fait mais j'ay regardé",
+    "polygon": [
+      [
+        1260,
+        1343
+      ],
+      [
+        4227,
+        1343
+      ],
+      [
+        4227,
+        1544
+      ],
+      [
+        1260,
+        1544
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_5f71f6e3",
+    "text": "feuilleté mon registre qui en faict foy ./.",
+    "polygon": [
+      [
+        1271,
+        1494
+      ],
+      [
+        3931,
+        1494
+      ],
+      [
+        3931,
+        1751
+      ],
+      [
+        1271,
+        1751
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_d5514ef7",
+    "text": "Leurs Ma.^tez depeschent M.^r Ancel qui a reside",
+    "polygon": [
+      [
+        1171,
+        1717
+      ],
+      [
+        4249,
+        1717
+      ],
+      [
+        4249,
+        1996
+      ],
+      [
+        1171,
+        1996
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_09024a87",
+    "text": "longuem̃ du temps de noz deux derniers Royz a pra",
+    "polygon": [
+      [
+        1187,
+        1935
+      ],
+      [
+        4238,
+        1935
+      ],
+      [
+        4238,
+        2230
+      ],
+      [
+        1187,
+        2230
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_45d60650",
+    "text": "pres le feu Empereur, En Allemagne vers les",
+    "polygon": [
+      [
+        1165,
+        2130
+      ],
+      [
+        4244,
+        2130
+      ],
+      [
+        4244,
+        2425
+      ],
+      [
+        1165,
+        2425
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_21669297",
+    "text": "primes de l'union põ leur raffrescher les",
+    "polygon": [
+      [
+        1165,
+        2331
+      ],
+      [
+        4021,
+        2331
+      ],
+      [
+        4021,
+        2643
+      ],
+      [
+        1165,
+        2643
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_719acd96",
+    "text": "declarations de la bienveillance certaine d'ice",
+    "polygon": [
+      [
+        1199,
+        2503
+      ],
+      [
+        4260,
+        2503
+      ],
+      [
+        4260,
+        2860
+      ],
+      [
+        1199,
+        2860
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_f7445593",
+    "text": "envers leurs personnes et la cause commune et",
+    "polygon": [
+      [
+        1221,
+        2754
+      ],
+      [
+        4255,
+        2754
+      ],
+      [
+        4255,
+        3039
+      ],
+      [
+        1221,
+        3039
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_bcbe8824",
+    "text": "esperons que [?] office proffitera sur l'occasion",
+    "polygon": [
+      [
+        1199,
+        2933
+      ],
+      [
+        4266,
+        2933
+      ],
+      [
+        4266,
+        3279
+      ],
+      [
+        1199,
+        3279
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_5856b607",
+    "text": "de noz alliances nouvelles./.",
+    "polygon": [
+      [
+        1132,
+        3161
+      ],
+      [
+        2883,
+        3161
+      ],
+      [
+        2883,
+        3451
+      ],
+      [
+        1132,
+        3451
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_cd3e6ee0",
+    "text": "L'on nõ dit que l'assemblée de [?] est se par",
+    "polygon": [
+      [
+        1176,
+        3329
+      ],
+      [
+        4283,
+        3329
+      ],
+      [
+        4283,
+        3736
+      ],
+      [
+        1176,
+        3736
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_527ea907",
+    "text": "nõ avons a plaisir d'estre informez de ce qui sera",
+    "polygon": [
+      [
+        1143,
+        3569
+      ],
+      [
+        4272,
+        3569
+      ],
+      [
+        4272,
+        3931
+      ],
+      [
+        1143,
+        3931
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_589de235",
+    "text": "passe en icelle de quoy il sera aussy a propos qu",
+    "polygon": [
+      [
+        1098,
+        3764
+      ],
+      [
+        4305,
+        3764
+      ],
+      [
+        4305,
+        4165
+      ],
+      [
+        1098,
+        4165
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_923e1ef4",
+    "text": "M.^r de bouillon ayt cognoissance, car il vont",
+    "polygon": [
+      [
+        1093,
+        3953
+      ],
+      [
+        4233,
+        3953
+      ],
+      [
+        4233,
+        4388
+      ],
+      [
+        1093,
+        4388
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_fef8e5d2",
+    "text": "monstrer a son instruction qui contient plusieurs",
+    "polygon": [
+      [
+        1143,
+        4165
+      ],
+      [
+        4299,
+        4165
+      ],
+      [
+        4299,
+        4584
+      ],
+      [
+        1143,
+        4584
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_6683cc75",
+    "text": "articles et matieres differentes./.",
+    "polygon": [
+      [
+        1160,
+        4411
+      ],
+      [
+        3323,
+        4411
+      ],
+      [
+        3323,
+        4768
+      ],
+      [
+        1160,
+        4768
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_73c5105d",
+    "text": "Le Roy se porte tres bien de la petite verole et",
+    "polygon": [
+      [
+        1210,
+        4606
+      ],
+      [
+        4311,
+        4606
+      ],
+      [
+        4311,
+        5058
+      ],
+      [
+        1210,
+        5058
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_0ab06214",
+    "text": "en a esté bientost heureusem̃ deslivre ./. Je suis",
+    "polygon": [
+      [
+        1199,
+        4812
+      ],
+      [
+        4305,
+        4812
+      ],
+      [
+        4305,
+        5242
+      ],
+      [
+        1199,
+        5242
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_997c0121",
+    "text": "[?]",
+    "polygon": [
+      [
+        1226,
+        5532
+      ],
+      [
+        1918,
+        5532
+      ],
+      [
+        1918,
+        5810
+      ],
+      [
+        1226,
+        5810
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_2c9e62b5",
+    "text": "de Paris ce XXVI",
+    "polygon": [
+      [
+        1048,
+        5827
+      ],
+      [
+        2253,
+        5827
+      ],
+      [
+        2253,
+        6145
+      ],
+      [
+        1048,
+        6145
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_06b337d1",
+    "text": "Avril 1613",
+    "polygon": [
+      [
+        1176,
+        6056
+      ],
+      [
+        2052,
+        6056
+      ],
+      [
+        2052,
+        6335
+      ],
+      [
+        1176,
+        6335
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_dbc7355a",
+    "text": "Vostre bien humble et",
+    "polygon": [
+      [
+        2944,
+        5732
+      ],
+      [
+        4205,
+        5732
+      ],
+      [
+        4205,
+        6000
+      ],
+      [
+        2944,
+        6000
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_dd6416d0",
+    "text": "atten.^ne serviteur",
+    "polygon": [
+      [
+        2983,
+        5916
+      ],
+      [
+        4076,
+        5916
+      ],
+      [
+        4076,
+        6162
+      ],
+      [
+        2983,
+        6162
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_57bad745",
+    "text": "Puysieux",
+    "polygon": [
+      [
+        3268,
+        6100
+      ],
+      [
+        3987,
+        6100
+      ],
+      [
+        3987,
+        6362
+      ],
+      [
+        3268,
+        6362
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\377_c1670_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "21de6f45fa470218cc1fac653d5c367848b41c1caf1fa3bb85bc858e8c5404c5"
+  },
+  {
+    "line_id": "eSc_line_1a2c13cb",
+    "text": "Mon Tres Reverend Pere",
+    "polygon": [
+      [
+        329,
+        665
+      ],
+      [
+        1553,
+        665
+      ],
+      [
+        1553,
+        853
+      ],
+      [
+        329,
+        853
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_60f9ba69",
+    "text": "Il y a longtems que je pense à prendre la plume pour vous",
+    "polygon": [
+      [
+        281,
+        1263
+      ],
+      [
+        2972,
+        1263
+      ],
+      [
+        2972,
+        1467
+      ],
+      [
+        281,
+        1467
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_b17e7059",
+    "text": "remercier de l'accueil obligeant que vous m'avez fait dans",
+    "polygon": [
+      [
+        292,
+        1445
+      ],
+      [
+        3006,
+        1445
+      ],
+      [
+        3006,
+        1626
+      ],
+      [
+        292,
+        1626
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_0e0a4b53",
+    "text": "mon dernier passage à Paris, & pour vous renouveller les",
+    "polygon": [
+      [
+        284,
+        1629
+      ],
+      [
+        3009,
+        1629
+      ],
+      [
+        3009,
+        1807
+      ],
+      [
+        284,
+        1807
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_10283c53",
+    "text": "assurances de mon respect sincere & inviolable. Mais diverses",
+    "polygon": [
+      [
+        232,
+        1796
+      ],
+      [
+        2984,
+        1796
+      ],
+      [
+        2984,
+        2014
+      ],
+      [
+        232,
+        2014
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_2303ec50",
+    "text": "causes m'ont distrait & occupé au point de me faire negliger",
+    "polygon": [
+      [
+        288,
+        1955
+      ],
+      [
+        3002,
+        1955
+      ],
+      [
+        3002,
+        2217
+      ],
+      [
+        288,
+        2217
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_de0d8f42",
+    "text": "plusieurs devoirs. L'une de ces causes est mon mariage, en quoi",
+    "polygon": [
+      [
+        236,
+        2154
+      ],
+      [
+        2969,
+        2154
+      ],
+      [
+        2969,
+        2376
+      ],
+      [
+        236,
+        2376
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_e6cc6ff6",
+    "text": "j'ai eu le bonheur de faire le meilleur marché que j'aye fait",
+    "polygon": [
+      [
+        255,
+        2309
+      ],
+      [
+        2980,
+        2309
+      ],
+      [
+        2980,
+        2553
+      ],
+      [
+        255,
+        2553
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_5abe8036",
+    "text": "de ma vie, par l'excellent caractere de la personne dont j'ai",
+    "polygon": [
+      [
+        277,
+        2490
+      ],
+      [
+        2898,
+        2490
+      ],
+      [
+        2898,
+        2727
+      ],
+      [
+        277,
+        2727
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_abf9d924",
+    "text": "fait choix. l'autre cause bien differente sont les brouilleries",
+    "polygon": [
+      [
+        288,
+        2661
+      ],
+      [
+        2891,
+        2661
+      ],
+      [
+        2891,
+        2919
+      ],
+      [
+        288,
+        2919
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_6704dd39",
+    "text": "dont notre République a eté agitée, & où il a fallu que tous les",
+    "polygon": [
+      [
+        310,
+        2827
+      ],
+      [
+        2954,
+        2827
+      ],
+      [
+        2954,
+        3086
+      ],
+      [
+        310,
+        3086
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_5b23ccb2",
+    "text": "honnêtes gens interposassent leurs bons offices pour calmer les",
+    "polygon": [
+      [
+        277,
+        3008
+      ],
+      [
+        3024,
+        3008
+      ],
+      [
+        3024,
+        3259
+      ],
+      [
+        277,
+        3259
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_546cf533",
+    "text": "esprits & aporter la paix. les brouilleries sont venues de quelques",
+    "polygon": [
+      [
+        306,
+        3178
+      ],
+      [
+        2939,
+        3178
+      ],
+      [
+        2939,
+        3429
+      ],
+      [
+        306,
+        3429
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_60f861de",
+    "text": "demandes de la Bourgeoisie, tres importantes & >< avec une",
+    "polygon": [
+      [
+        314,
+        3407
+      ],
+      [
+        3043,
+        3407
+      ],
+      [
+        3043,
+        3592
+      ],
+      [
+        314,
+        3592
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_64e0c40a",
+    "text": "soutenue",
+    "polygon": [
+      [
+        2185,
+        3337
+      ],
+      [
+        2507,
+        3337
+      ],
+      [
+        2507,
+        3440
+      ],
+      [
+        2185,
+        3440
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_8d4349ab",
+    "text": "48",
+    "polygon": [
+      [
+        2677,
+        129
+      ],
+      [
+        2828,
+        129
+      ],
+      [
+        2828,
+        277
+      ],
+      [
+        2677,
+        277
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon\\f101.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "4183012c93bf8c6bc6d83f872734883ddc108d95edf7dd3ce2dcf4df21de8728"
+  },
+  {
+    "line_id": "eSc_line_e9d24dc0",
+    "text": "un très honet'homme, et qui joint a sa grande vivacité toute la",
+    "polygon": [
+      [
+        83,
+        969
+      ],
+      [
+        2423,
+        969
+      ],
+      [
+        2423,
+        1136
+      ],
+      [
+        83,
+        1136
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_46c914fc",
+    "text": "politesse et la droiture possible, et qui est par consequent tres",
+    "polygon": [
+      [
+        76,
+        1107
+      ],
+      [
+        2390,
+        1107
+      ],
+      [
+        2390,
+        1286
+      ],
+      [
+        76,
+        1286
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_46b3371a",
+    "text": "digne de vostre estime, et de celle de toutes les personnes de",
+    "polygon": [
+      [
+        69,
+        1228
+      ],
+      [
+        2398,
+        1228
+      ],
+      [
+        2398,
+        1384
+      ],
+      [
+        69,
+        1384
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_5cd00bc3",
+    "text": "merite ; J'attends de recevoir a son retour bien des nouvelles de vostre",
+    "polygon": [
+      [
+        76,
+        1351
+      ],
+      [
+        2398,
+        1351
+      ],
+      [
+        2398,
+        1523
+      ],
+      [
+        76,
+        1523
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_84c41436",
+    "text": "santé, de vos affaires, et de vos grands ouvrages ; au cas que M. ̃ son",
+    "polygon": [
+      [
+        61,
+        1483
+      ],
+      [
+        2394,
+        1483
+      ],
+      [
+        2394,
+        1647
+      ],
+      [
+        61,
+        1647
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_b978cd81",
+    "text": "frere n'eüt pas encore fait pour moy la souscription pour celui",
+    "polygon": [
+      [
+        72,
+        1588
+      ],
+      [
+        2376,
+        1588
+      ],
+      [
+        2376,
+        1814
+      ],
+      [
+        72,
+        1814
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_56888999",
+    "text": "de L'Antiquité expliquée, que je luy ay fait charger il y a tres",
+    "polygon": [
+      [
+        58,
+        1752
+      ],
+      [
+        2368,
+        1752
+      ],
+      [
+        2368,
+        1931
+      ],
+      [
+        58,
+        1931
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_e8ac345e",
+    "text": "long tems, il la fera pour moy a son arrivée, et je vous prie",
+    "polygon": [
+      [
+        65,
+        1876
+      ],
+      [
+        2405,
+        1876
+      ],
+      [
+        2405,
+        2058
+      ],
+      [
+        65,
+        2058
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_3650dab1",
+    "text": "de la faire admetre, au cas que cela arrive, quoy que le terme",
+    "polygon": [
+      [
+        76,
+        1989
+      ],
+      [
+        2387,
+        1989
+      ],
+      [
+        2387,
+        2171
+      ],
+      [
+        76,
+        2171
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_3c98ddca",
+    "text": "d'estre persuadé",
+    "polygon": [
+      [
+        1902,
+        2099
+      ],
+      [
+        2347,
+        2099
+      ],
+      [
+        2347,
+        2186
+      ],
+      [
+        1902,
+        2186
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_603236df",
+    "text": "en soit expire. Je vous prie, Monsieur, et mon cher papa, qu'",
+    "polygon": [
+      [
+        32,
+        2139
+      ],
+      [
+        2365,
+        2139
+      ],
+      [
+        2365,
+        2306
+      ],
+      [
+        32,
+        2306
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_d2aa78ad",
+    "text": "on ne peut rien ajouter a la consideration, et au respectueux",
+    "polygon": [
+      [
+        80,
+        2252
+      ],
+      [
+        2379,
+        2252
+      ],
+      [
+        2379,
+        2419
+      ],
+      [
+        80,
+        2419
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_a078a46a",
+    "text": "attachement, avec lequel j'ay l'honneur d'estre",
+    "polygon": [
+      [
+        87,
+        2368
+      ],
+      [
+        1862,
+        2368
+      ],
+      [
+        1862,
+        2550
+      ],
+      [
+        87,
+        2550
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_58a886cc",
+    "text": "Mon tres Reverend Pere",
+    "polygon": [
+      [
+        102,
+        2492
+      ],
+      [
+        1064,
+        2492
+      ],
+      [
+        1064,
+        2663
+      ],
+      [
+        102,
+        2663
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_4e036739",
+    "text": "Mons^s le Doïen se prepare a",
+    "polygon": [
+      [
+        54,
+        2638
+      ],
+      [
+        1122,
+        2638
+      ],
+      [
+        1122,
+        2846
+      ],
+      [
+        54,
+        2846
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_f2391ebf",
+    "text": "entreprendre au plus tot le voiage",
+    "polygon": [
+      [
+        72,
+        2758
+      ],
+      [
+        1220,
+        2758
+      ],
+      [
+        1220,
+        2955
+      ],
+      [
+        72,
+        2955
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_b7a0867c",
+    "text": "Vostre tres humble serviteur, et tres",
+    "polygon": [
+      [
+        1239,
+        2769
+      ],
+      [
+        2332,
+        2769
+      ],
+      [
+        2332,
+        2969
+      ],
+      [
+        1239,
+        2969
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_92975c7e",
+    "text": "que vous sçavez. Il se porte",
+    "polygon": [
+      [
+        91,
+        2853
+      ],
+      [
+        1144,
+        2853
+      ],
+      [
+        1144,
+        3046
+      ],
+      [
+        91,
+        3046
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_ecd7be26",
+    "text": "obeissant",
+    "polygon": [
+      [
+        1636,
+        2940
+      ],
+      [
+        1953,
+        2940
+      ],
+      [
+        1953,
+        3057
+      ],
+      [
+        1636,
+        3057
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_080c6225",
+    "text": "bien, et m'a chargé de vous faire",
+    "polygon": [
+      [
+        105,
+        2955
+      ],
+      [
+        1209,
+        2955
+      ],
+      [
+        1209,
+        3137
+      ],
+      [
+        105,
+        3137
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_5344249d",
+    "text": "beaucoup de compliments de sa part",
+    "polygon": [
+      [
+        91,
+        3064
+      ],
+      [
+        1355,
+        3064
+      ],
+      [
+        1355,
+        3232
+      ],
+      [
+        91,
+        3232
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_2103dd66",
+    "text": "R. P. D^n Bernard de Montfaucon",
+    "polygon": [
+      [
+        94,
+        3163
+      ],
+      [
+        1246,
+        3163
+      ],
+      [
+        1246,
+        3425
+      ],
+      [
+        94,
+        3425
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\93_efa16_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "b2e0e7b3805ae71b79814b50daa4192f146c44aec0f0d33a0a7f3c5eba9e7d75"
+  },
+  {
+    "line_id": "eSc_line_eef73b2f",
+    "text": "fig.",
+    "polygon": [
+      [
+        378,
+        435
+      ],
+      [
+        545,
+        435
+      ],
+      [
+        545,
+        545
+      ],
+      [
+        378,
+        545
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_deb99556",
+    "text": "sauveur. pere, sacrificateur, hostie, nourriture, Roy, sage, legislateur",
+    "polygon": [
+      [
+        369,
+        466
+      ],
+      [
+        2750,
+        466
+      ],
+      [
+        2750,
+        660
+      ],
+      [
+        369,
+        660
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_f620fcac",
+    "text": "affligé pauvre, devant produire un peuple, qu'il devoit >nour< conduire",
+    "polygon": [
+      [
+        448,
+        633
+      ],
+      [
+        2702,
+        633
+      ],
+      [
+        2702,
+        800
+      ],
+      [
+        448,
+        800
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_3599e2a2",
+    "text": "et nourrir, & introduire dans sa terre,",
+    "polygon": [
+      [
+        457,
+        765
+      ],
+      [
+        1558,
+        765
+      ],
+      [
+        1558,
+        893
+      ],
+      [
+        457,
+        893
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_ba3181f9",
+    "text": "J. C. offices",
+    "polygon": [
+      [
+        325,
+        932
+      ],
+      [
+        721,
+        932
+      ],
+      [
+        721,
+        1095
+      ],
+      [
+        325,
+        1095
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_286a5c99",
+    "text": "luy seul",
+    "polygon": [
+      [
+        638,
+        1020
+      ],
+      [
+        805,
+        1020
+      ],
+      [
+        805,
+        1130
+      ],
+      [
+        638,
+        1130
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_da9cfb66",
+    "text": "gñd",
+    "polygon": [
+      [
+        994,
+        906
+      ],
+      [
+        1161,
+        906
+      ],
+      [
+        1161,
+        1117
+      ],
+      [
+        994,
+        1117
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_74885b9d",
+    "text": "Il devoit produire un peuple esleu saint & choisy, le conduire, le nourrir",
+    "polygon": [
+      [
+        356,
+        976
+      ],
+      [
+        2706,
+        976
+      ],
+      [
+        2706,
+        1227
+      ],
+      [
+        356,
+        1227
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_21371551",
+    "text": "l'introduire dans le lieu de repos & de saintete, le rendre saint a dieu,",
+    "polygon": [
+      [
+        374,
+        1108
+      ],
+      [
+        2535,
+        1108
+      ],
+      [
+        2535,
+        1337
+      ],
+      [
+        374,
+        1337
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_35d072a6",
+    "text": "le",
+    "polygon": [
+      [
+        629,
+        1284
+      ],
+      [
+        704,
+        1284
+      ],
+      [
+        704,
+        1372
+      ],
+      [
+        629,
+        1372
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_7a815d94",
+    "text": "‸ le sauveur de la colere de dieu le delivrer de la servitude du",
+    "polygon": [
+      [
+        1505,
+        1183
+      ],
+      [
+        2874,
+        1183
+      ],
+      [
+        2874,
+        1324
+      ],
+      [
+        1505,
+        1324
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_2f323783",
+    "text": "en former >un< temple de dieu, le Reconcilier a dieu, ‸ >sacrifier a dieu<, donner",
+    "polygon": [
+      [
+        308,
+        1267
+      ],
+      [
+        2588,
+        1267
+      ],
+      [
+        2588,
+        1474
+      ],
+      [
+        308,
+        1474
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_eddd84c0",
+    "text": "peche",
+    "polygon": [
+      [
+        2764,
+        1280
+      ],
+      [
+        2860,
+        1280
+      ],
+      [
+        2860,
+        1372
+      ],
+      [
+        2764,
+        1372
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_c507731a",
+    "text": "qui regne",
+    "polygon": [
+      [
+        2601,
+        1289
+      ],
+      [
+        2869,
+        1289
+      ],
+      [
+        2869,
+        1456
+      ],
+      [
+        2601,
+        1456
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_01ccb432",
+    "text": "des loix a ce peuple, >soffrir< graver ces loix dans leur cœur",
+    "polygon": [
+      [
+        330,
+        1386
+      ],
+      [
+        2390,
+        1386
+      ],
+      [
+        2390,
+        1562
+      ],
+      [
+        330,
+        1562
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_5e5713f7",
+    "text": "dans l'hom ̃",
+    "polygon": [
+      [
+        2539,
+        1412
+      ],
+      [
+        2878,
+        1412
+      ],
+      [
+        2878,
+        1584
+      ],
+      [
+        2539,
+        1584
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_32710a90",
+    "text": "visible ̃",
+    "polygon": [
+      [
+        2645,
+        1390
+      ],
+      [
+        2834,
+        1390
+      ],
+      [
+        2834,
+        1465
+      ],
+      [
+        2645,
+        1465
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_3a72d2db",
+    "text": "soffrir a dieu p ̃ eux, se sacrifier p ̃ eux, estre une hostie sans",
+    "polygon": [
+      [
+        330,
+        1531
+      ],
+      [
+        2482,
+        1531
+      ],
+      [
+        2482,
+        1702
+      ],
+      [
+        330,
+        1702
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_71ea5bbf",
+    "text": "tache, & luy mesme sacrificateur, devant >< offrir luy mesme >&",
+    "polygon": [
+      [
+        374,
+        1632
+      ],
+      [
+        2874,
+        1632
+      ],
+      [
+        2874,
+        1834
+      ],
+      [
+        374,
+        1834
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_c533410f",
+    "text": "Ingrediens mundum",
+    "polygon": [
+      [
+        2002,
+        1760
+      ],
+      [
+        2473,
+        1760
+      ],
+      [
+        2473,
+        1896
+      ],
+      [
+        2002,
+        1896
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_7324fbfa",
+    "text": "& neantmoins offrir pain & vin a dieu,",
+    "polygon": [
+      [
+        127,
+        1777
+      ],
+      [
+        1272,
+        1777
+      ],
+      [
+        1272,
+        1966
+      ],
+      [
+        127,
+        1966
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_2422387d",
+    "text": "pierre sur pierre",
+    "polygon": [
+      [
+        1971,
+        1839
+      ],
+      [
+        2354,
+        1839
+      ],
+      [
+        2354,
+        1975
+      ],
+      [
+        1971,
+        1975
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_52a3ed65",
+    "text": "Ce qui a precedé Ce qui a suivy tous les Juifs",
+    "polygon": [
+      [
+        1971,
+        1826
+      ],
+      [
+        2869,
+        1826
+      ],
+      [
+        2869,
+        2054
+      ],
+      [
+        1971,
+        2054
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_1037271e",
+    "text": "subsistants &",
+    "polygon": [
+      [
+        2689,
+        1914
+      ],
+      [
+        2891,
+        1914
+      ],
+      [
+        2891,
+        2072
+      ],
+      [
+        2689,
+        2072
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_55cf6740",
+    "text": "vagabonds.",
+    "polygon": [
+      [
+        2676,
+        1966
+      ],
+      [
+        2860,
+        1966
+      ],
+      [
+        2860,
+        2076
+      ],
+      [
+        2676,
+        2076
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_f86b3d76",
+    "text": "Propheties : transfixerunt Zach. >102< 12. 10.",
+    "polygon": [
+      [
+        316,
+        1931
+      ],
+      [
+        1681,
+        1931
+      ],
+      [
+        1681,
+        2169
+      ],
+      [
+        316,
+        2169
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_41fd3d8e",
+    "text": "qu'il devoit venir un liberateur qui ecraseroit la teste au demon, qui devoit",
+    "polygon": [
+      [
+        356,
+        2010
+      ],
+      [
+        2808,
+        2010
+      ],
+      [
+        2808,
+        2244
+      ],
+      [
+        356,
+        2244
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_1b07e394",
+    "text": "delivrer son peuple de ses pechez, ex omnibus iniquitatibus. qu'il devoit >estre< y avoir",
+    "polygon": [
+      [
+        321,
+        2116
+      ],
+      [
+        2812,
+        2116
+      ],
+      [
+        2812,
+        2345
+      ],
+      [
+        321,
+        2345
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_8dc081ba",
+    "text": "un nouveau testam ̃, que seroit eternel, qu'il devoit y avoir une autre prestrise",
+    "polygon": [
+      [
+        338,
+        2217
+      ],
+      [
+        2755,
+        2217
+      ],
+      [
+        2755,
+        2415
+      ],
+      [
+        338,
+        2415
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_0cef8f97",
+    "text": "selon lordre d Melchisedech. que celle la seroit eternelle, que Le Christ devoit estre",
+    "polygon": [
+      [
+        360,
+        2314
+      ],
+      [
+        2772,
+        2314
+      ],
+      [
+        2772,
+        2490
+      ],
+      [
+        360,
+        2490
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_68449dbc",
+    "text": "glorieux, puissant, fort, & neantmoins si miserable, quil ne seroit point reconnu. quon ne",
+    "polygon": [
+      [
+        365,
+        2380
+      ],
+      [
+        2808,
+        2380
+      ],
+      [
+        2808,
+        2552
+      ],
+      [
+        365,
+        2552
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_9dc51f5b",
+    "text": "le prendroit point p ̃ ce quil est, quon le rebuteroit, quon le tueroit, que son peuple qui lauroit",
+    "polygon": [
+      [
+        378,
+        2433
+      ],
+      [
+        2755,
+        2433
+      ],
+      [
+        2755,
+        2622
+      ],
+      [
+        378,
+        2622
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_479c702d",
+    "text": "renié ne soit plus son peuple, que les Idolatres le recevroyent & auroyent recours a luy, qu'il quitteroit",
+    "polygon": [
+      [
+        396,
+        2521
+      ],
+      [
+        2684,
+        2521
+      ],
+      [
+        2684,
+        2657
+      ],
+      [
+        396,
+        2657
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_1d271ac7",
+    "text": "Sion p ̃ regner au centre de l'idolatrie, que neantmoins les Juifs subsisteroyent toujours, qu'il devoit estre d",
+    "polygon": [
+      [
+        391,
+        2534
+      ],
+      [
+        2794,
+        2534
+      ],
+      [
+        2794,
+        2732
+      ],
+      [
+        391,
+        2732
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_320eccfb",
+    "text": "Juda, & quand il ny auroit plus d Roy",
+    "polygon": [
+      [
+        2143,
+        2578
+      ],
+      [
+        2843,
+        2578
+      ],
+      [
+        2843,
+        2789
+      ],
+      [
+        2143,
+        2789
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_42d7c5ae",
+    "text": "+",
+    "polygon": [
+      [
+        1575,
+        2675
+      ],
+      [
+        1650,
+        2675
+      ],
+      [
+        1650,
+        2829
+      ],
+      [
+        1575,
+        2829
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_0f12b76b",
+    "text": "figures",
+    "polygon": [
+      [
+        1241,
+        2741
+      ],
+      [
+        1588,
+        2741
+      ],
+      [
+        1588,
+        2908
+      ],
+      [
+        1241,
+        2908
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_3c359575",
+    "text": "Des qu'une fois on a ouvert ce secret il est impossible de ne le",
+    "polygon": [
+      [
+        770,
+        2824
+      ],
+      [
+        2799,
+        2824
+      ],
+      [
+        2799,
+        3014
+      ],
+      [
+        770,
+        3014
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_3b8e0dfa",
+    "text": "pas voir quon lise le vieil testame ̃ en cette veue & quon voye",
+    "polygon": [
+      [
+        787,
+        2934
+      ],
+      [
+        2781,
+        2934
+      ],
+      [
+        2781,
+        3115
+      ],
+      [
+        787,
+        3115
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_2c411fd4",
+    "text": "si les sacrifices estoyent vrais, si la parenté d Abraham estoit",
+    "polygon": [
+      [
+        814,
+        3036
+      ],
+      [
+        2838,
+        3036
+      ],
+      [
+        2838,
+        3225
+      ],
+      [
+        814,
+        3225
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_d9f3bb21",
+    "text": "la vraye cause d̃ lamitié d̃ Dieu, si la terre promise estoit le",
+    "polygon": [
+      [
+        827,
+        3146
+      ],
+      [
+        2764,
+        3146
+      ],
+      [
+        2764,
+        3317
+      ],
+      [
+        827,
+        3317
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_d5d147d8",
+    "text": "veritable lieu de repos ? non donc cestoyent des figures",
+    "polygon": [
+      [
+        840,
+        3247
+      ],
+      [
+        2579,
+        3247
+      ],
+      [
+        2579,
+        3401
+      ],
+      [
+        840,
+        3401
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_b0700823",
+    "text": "quon voye de mesmes toutes les ceremonies ordonnees & tous les",
+    "polygon": [
+      [
+        853,
+        3344
+      ],
+      [
+        2737,
+        3344
+      ],
+      [
+        2737,
+        3537
+      ],
+      [
+        853,
+        3537
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_bae02690",
+    "text": "commandem ̃ qui ne sont point p ̃ la charité, on verra que cen",
+    "polygon": [
+      [
+        858,
+        3467
+      ],
+      [
+        2746,
+        3467
+      ],
+      [
+        2746,
+        3625
+      ],
+      [
+        858,
+        3625
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_fef4bf8f",
+    "text": "sont les figures, >ou que cestoyent des nia<",
+    "polygon": [
+      [
+        867,
+        3568
+      ],
+      [
+        2213,
+        3568
+      ],
+      [
+        2213,
+        3722
+      ],
+      [
+        867,
+        3722
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_65d38d5a",
+    "text": "Scavoir si les",
+    "polygon": [
+      [
+        360,
+        3586
+      ],
+      [
+        721,
+        3586
+      ],
+      [
+        721,
+        3788
+      ],
+      [
+        360,
+        3788
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_44191383",
+    "text": "prophetes",
+    "polygon": [
+      [
+        352,
+        3740
+      ],
+      [
+        642,
+        3740
+      ],
+      [
+        642,
+        3920
+      ],
+      [
+        352,
+        3920
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_33c21247",
+    "text": "arrestoyent leur",
+    "polygon": [
+      [
+        347,
+        3828
+      ],
+      [
+        717,
+        3828
+      ],
+      [
+        717,
+        3990
+      ],
+      [
+        347,
+        3990
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_52198b84",
+    "text": "veüe dans",
+    "polygon": [
+      [
+        387,
+        3946
+      ],
+      [
+        708,
+        3946
+      ],
+      [
+        708,
+        4070
+      ],
+      [
+        387,
+        4070
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_38c76f65",
+    "text": "lancien testamẽt",
+    "polygon": [
+      [
+        382,
+        4039
+      ],
+      [
+        818,
+        4039
+      ],
+      [
+        818,
+        4202
+      ],
+      [
+        382,
+        4202
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_63177555",
+    "text": "ou s'ils y",
+    "polygon": [
+      [
+        369,
+        4162
+      ],
+      [
+        616,
+        4162
+      ],
+      [
+        616,
+        4298
+      ],
+      [
+        369,
+        4298
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_619f547c",
+    "text": "voyoyent d'autres choses",
+    "polygon": [
+      [
+        334,
+        4219
+      ],
+      [
+        787,
+        4219
+      ],
+      [
+        787,
+        4378
+      ],
+      [
+        334,
+        4378
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_98d28c48",
+    "text": "Tous ces sacrifices & ceremonies estoyent donc figures ou",
+    "polygon": [
+      [
+        827,
+        3682
+      ],
+      [
+        2852,
+        3682
+      ],
+      [
+        2852,
+        3841
+      ],
+      [
+        827,
+        3841
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_0614e59f",
+    "text": "sottises, or >< il y a des choses claires trop hautes p ̃ les",
+    "polygon": [
+      [
+        818,
+        3784
+      ],
+      [
+        2838,
+        3784
+      ],
+      [
+        2838,
+        3982
+      ],
+      [
+        818,
+        3982
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_1fe5c152",
+    "text": "estimer des sottises",
+    "polygon": [
+      [
+        858,
+        3946
+      ],
+      [
+        1377,
+        3946
+      ],
+      [
+        1377,
+        4034
+      ],
+      [
+        858,
+        4034
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_b0af0963",
+    "text": "37",
+    "polygon": [
+      [
+        2922,
+        259
+      ],
+      [
+        3054,
+        259
+      ],
+      [
+        3054,
+        453
+      ],
+      [
+        2922,
+        453
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_a2764a91",
+    "text": "pouvoyent",
+    "polygon": [
+      [
+        1307,
+        4158
+      ],
+      [
+        1624,
+        4158
+      ],
+      [
+        1624,
+        4219
+      ],
+      [
+        1307,
+        4219
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_4dcd4c6b",
+    "text": "Q >peuvent< faire les Juifs ses ennemys.",
+    "polygon": [
+      [
+        1188,
+        4127
+      ],
+      [
+        2332,
+        4127
+      ],
+      [
+        2332,
+        4307
+      ],
+      [
+        1188,
+        4307
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_1a3220af",
+    "text": "Ils",
+    "polygon": [
+      [
+        1742,
+        4246
+      ],
+      [
+        1826,
+        4246
+      ],
+      [
+        1826,
+        4325
+      ],
+      [
+        1742,
+        4325
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_182177dc",
+    "text": "‸ par leur reception",
+    "polygon": [
+      [
+        2033,
+        4237
+      ],
+      [
+        2359,
+        4237
+      ],
+      [
+        2359,
+        4364
+      ],
+      [
+        2033,
+        4364
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_24a8c160",
+    "text": "sils le recevoyent >cestoit< le prouve>r",
+    "polygon": [
+      [
+        1179,
+        4254
+      ],
+      [
+        2323,
+        4254
+      ],
+      [
+        2323,
+        4408
+      ],
+      [
+        1179,
+        4408
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_59bcb252",
+    "text": "les depositaires de lattente du messie",
+    "polygon": [
+      [
+        1179,
+        4360
+      ],
+      [
+        2293,
+        4360
+      ],
+      [
+        2293,
+        4496
+      ],
+      [
+        1179,
+        4496
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_e4b8b51a",
+    "text": "le recoivent & s ils le renoncent ils le",
+    "polygon": [
+      [
+        1206,
+        4435
+      ],
+      [
+        2275,
+        4435
+      ],
+      [
+        2275,
+        4615
+      ],
+      [
+        1206,
+        4615
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_6be7c7f3",
+    "text": "prouvent par leur renonciation",
+    "polygon": [
+      [
+        1170,
+        4527
+      ],
+      [
+        2051,
+        4527
+      ],
+      [
+        2051,
+        4677
+      ],
+      [
+        1170,
+        4677
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\pensées-sur-la-religion-par-blaise-pascal\\28_8f357_default.xml",
+    "subcorpus": "pensées-sur-la-religion-par-blaise-pascal",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "eba4652704cd65c902db3d2396e318a1bbdd8ec5c24f868ede2b977166080c42"
+  },
+  {
+    "line_id": "eSc_line_f2568a53",
+    "text": "De Venise le 25 May 1646.",
+    "polygon": [
+      [
+        2670,
+        2931
+      ],
+      [
+        4145,
+        2931
+      ],
+      [
+        4145,
+        3150
+      ],
+      [
+        2670,
+        3150
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_46040c37",
+    "text": "Monsieur",
+    "polygon": [
+      [
+        2341,
+        3221
+      ],
+      [
+        2928,
+        3221
+      ],
+      [
+        2928,
+        3523
+      ],
+      [
+        2341,
+        3523
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_4fac4a7f",
+    "text": "Il y a quinze jours que je vous escrivis",
+    "polygon": [
+      [
+        2555,
+        3419
+      ],
+      [
+        4250,
+        3419
+      ],
+      [
+        4250,
+        3660
+      ],
+      [
+        2555,
+        3660
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_97eb33aa",
+    "text": "mais ma lettre fut oubliee, la semaine",
+    "polygon": [
+      [
+        2566,
+        3545
+      ],
+      [
+        4282,
+        3545
+      ],
+      [
+        4282,
+        3780
+      ],
+      [
+        2566,
+        3780
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_6013ed43",
+    "text": "passee je neus pas la commodité de la",
+    "polygon": [
+      [
+        2593,
+        3676
+      ],
+      [
+        4288,
+        3676
+      ],
+      [
+        4288,
+        3879
+      ],
+      [
+        2593,
+        3879
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_426be68b",
+    "text": "faire. Le peu de nouvelle que nous",
+    "polygon": [
+      [
+        2593,
+        3775
+      ],
+      [
+        4288,
+        3775
+      ],
+      [
+        4288,
+        3983
+      ],
+      [
+        2593,
+        3983
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_3b9035cd",
+    "text": "avons consiste a la prise de Porto Tela-",
+    "polygon": [
+      [
+        2582,
+        3862
+      ],
+      [
+        4359,
+        3862
+      ],
+      [
+        4359,
+        4065
+      ],
+      [
+        2582,
+        4065
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_87d04531",
+    "text": "mone e San Stephano par nostre armee",
+    "polygon": [
+      [
+        2615,
+        3988
+      ],
+      [
+        4387,
+        3988
+      ],
+      [
+        4387,
+        4175
+      ],
+      [
+        2615,
+        4175
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_b609f935",
+    "text": "de mer dans les costes de Toscane, nostre armee",
+    "polygon": [
+      [
+        2358,
+        4092
+      ],
+      [
+        4370,
+        4092
+      ],
+      [
+        4370,
+        4290
+      ],
+      [
+        2358,
+        4290
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_3d5986f6",
+    "text": "assiege Orbitello. le Prince Thomas est",
+    "polygon": [
+      [
+        2621,
+        4175
+      ],
+      [
+        4337,
+        4175
+      ],
+      [
+        4337,
+        4394
+      ],
+      [
+        2621,
+        4394
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_fd994420",
+    "text": "general. Le grand Duc s'est mis en",
+    "polygon": [
+      [
+        2621,
+        4262
+      ],
+      [
+        4250,
+        4262
+      ],
+      [
+        4250,
+        4525
+      ],
+      [
+        2621,
+        4525
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_c90aee33",
+    "text": "neutralité. Le Pape est in ancipiti &",
+    "polygon": [
+      [
+        2621,
+        4361
+      ],
+      [
+        4304,
+        4361
+      ],
+      [
+        4304,
+        4607
+      ],
+      [
+        2621,
+        4607
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_8f9fc86e",
+    "text": "pourtant il monstre qu'il se relasche un",
+    "polygon": [
+      [
+        2654,
+        4487
+      ],
+      [
+        4348,
+        4487
+      ],
+      [
+        4348,
+        4739
+      ],
+      [
+        2654,
+        4739
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_37dce0d7",
+    "text": "peu pour la france. Les Espagnols",
+    "polygon": [
+      [
+        2687,
+        4602
+      ],
+      [
+        4195,
+        4602
+      ],
+      [
+        4195,
+        4860
+      ],
+      [
+        2687,
+        4860
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_af49def7",
+    "text": "seront chassés de la Toscane avant la",
+    "polygon": [
+      [
+        2665,
+        4706
+      ],
+      [
+        4387,
+        4706
+      ],
+      [
+        4387,
+        4964
+      ],
+      [
+        2665,
+        4964
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_eb4f5c77",
+    "text": "my juin.",
+    "polygon": [
+      [
+        2676,
+        4887
+      ],
+      [
+        3076,
+        4887
+      ],
+      [
+        3076,
+        5079
+      ],
+      [
+        2676,
+        5079
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_f4c469df",
+    "text": "Du costé de Levant l'on tient que les",
+    "polygon": [
+      [
+        2665,
+        4920
+      ],
+      [
+        4337,
+        4920
+      ],
+      [
+        4337,
+        5166
+      ],
+      [
+        2665,
+        5166
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_fac66377",
+    "text": "Turcs sont sortis par mer mais moins",
+    "polygon": [
+      [
+        2692,
+        5062
+      ],
+      [
+        4343,
+        5062
+      ],
+      [
+        4343,
+        5265
+      ],
+      [
+        2692,
+        5265
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_5f46b59e",
+    "text": "forts de ce que l'on a creu cy devant",
+    "polygon": [
+      [
+        2687,
+        5150
+      ],
+      [
+        4420,
+        5150
+      ],
+      [
+        4420,
+        5369
+      ],
+      [
+        2687,
+        5369
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_21155217",
+    "text": "l'armée de ces M^rs est retournee de",
+    "polygon": [
+      [
+        2709,
+        5254
+      ],
+      [
+        4282,
+        5254
+      ],
+      [
+        4282,
+        5446
+      ],
+      [
+        2709,
+        5446
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_2ba72b9b",
+    "text": "Tenedo en Candie apres y avoir perdu une",
+    "polygon": [
+      [
+        2714,
+        5325
+      ],
+      [
+        4403,
+        5325
+      ],
+      [
+        4403,
+        5544
+      ],
+      [
+        2714,
+        5544
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_3d9ff6b0",
+    "text": "piece de canon & quelques prisonniers",
+    "polygon": [
+      [
+        2703,
+        5424
+      ],
+      [
+        4348,
+        5424
+      ],
+      [
+        4348,
+        5659
+      ],
+      [
+        2703,
+        5659
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_a75093bd",
+    "text": "M^r de la Valette est perdu avec ces",
+    "polygon": [
+      [
+        2687,
+        5550
+      ],
+      [
+        4343,
+        5550
+      ],
+      [
+        4343,
+        5764
+      ],
+      [
+        2687,
+        5764
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_512dfa3b",
+    "text": "M^rs cy, Il sera obligé de quitter leur",
+    "polygon": [
+      [
+        2698,
+        5643
+      ],
+      [
+        4392,
+        5643
+      ],
+      [
+        4392,
+        5868
+      ],
+      [
+        2698,
+        5868
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_6c31bb0e",
+    "text": "service ayant ados les Corneri, Pesari,",
+    "polygon": [
+      [
+        2681,
+        5742
+      ],
+      [
+        4332,
+        5742
+      ],
+      [
+        4332,
+        5961
+      ],
+      [
+        2681,
+        5961
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_0b47875f",
+    "text": "Giustiniani e Mocenighi. il est hay deux",
+    "polygon": [
+      [
+        2720,
+        5851
+      ],
+      [
+        4403,
+        5851
+      ],
+      [
+        4403,
+        6065
+      ],
+      [
+        2720,
+        6065
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_87622a83",
+    "text": "po^r leur avoir trop reproché leurs",
+    "polygon": [
+      [
+        2665,
+        5944
+      ],
+      [
+        4239,
+        5944
+      ],
+      [
+        4239,
+        6207
+      ],
+      [
+        2665,
+        6207
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_43f29fc2",
+    "text": "411",
+    "polygon": [
+      [
+        4080,
+        3084
+      ],
+      [
+        4233,
+        3084
+      ],
+      [
+        4233,
+        3221
+      ],
+      [
+        4080,
+        3221
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_eb19df3f",
+    "text": "230",
+    "polygon": [
+      [
+        4069,
+        6070
+      ],
+      [
+        4266,
+        6070
+      ],
+      [
+        4266,
+        6377
+      ],
+      [
+        4069,
+        6377
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.jpeg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\recueil-lettres-pieces\\f727.xml",
+    "subcorpus": "recueil-lettres-pieces",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "c63b200f1be8fcb4ea6b48db7ae7839762f3299920de8ed22d60829be95ecad3"
+  },
+  {
+    "line_id": "eSc_line_e1fd1510",
+    "text": "Mon Reverend Pere",
+    "polygon": [
+      [
+        849,
+        1112
+      ],
+      [
+        1843,
+        1112
+      ],
+      [
+        1843,
+        1307
+      ],
+      [
+        849,
+        1307
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_af2130a8",
+    "text": "C'est pour avoir l'honneur, de vous remercier tres hum.",
+    "polygon": [
+      [
+        386,
+        1426
+      ],
+      [
+        2616,
+        1426
+      ],
+      [
+        2616,
+        1617
+      ],
+      [
+        386,
+        1617
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_bd93705a",
+    "text": "blement de toutes les bontés, dont vous m'avés honnoré",
+    "polygon": [
+      [
+        350,
+        1552
+      ],
+      [
+        2663,
+        1552
+      ],
+      [
+        2663,
+        1733
+      ],
+      [
+        350,
+        1733
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_8f4bd25a",
+    "text": "pendant mon sejour a Paris, et de vous faire part du",
+    "polygon": [
+      [
+        357,
+        1650
+      ],
+      [
+        2562,
+        1650
+      ],
+      [
+        2562,
+        1884
+      ],
+      [
+        357,
+        1884
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_90e9beb1",
+    "text": "heureux succes de mon voyage, que je prends la liberté",
+    "polygon": [
+      [
+        364,
+        1790
+      ],
+      [
+        2623,
+        1790
+      ],
+      [
+        2623,
+        2018
+      ],
+      [
+        364,
+        2018
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_223b946d",
+    "text": "de vous ecrire cette lettre. Apres avoir fait le tour de Lyon,",
+    "polygon": [
+      [
+        364,
+        1902
+      ],
+      [
+        2630,
+        1902
+      ],
+      [
+        2630,
+        2148
+      ],
+      [
+        364,
+        2148
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_b3dd2e58",
+    "text": "Avignon, Nismes, Montpellier et Toulon, je me suis embar.",
+    "polygon": [
+      [
+        379,
+        2029
+      ],
+      [
+        2638,
+        2029
+      ],
+      [
+        2638,
+        2274
+      ],
+      [
+        379,
+        2274
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_220ac134",
+    "text": "qué a Marseille pour aller a Genes, et de la j'ai",
+    "polygon": [
+      [
+        411,
+        2155
+      ],
+      [
+        2591,
+        2155
+      ],
+      [
+        2591,
+        2401
+      ],
+      [
+        411,
+        2401
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_f744a0d4",
+    "text": "fait le voyage par terre jusqu'a Rome, en passant",
+    "polygon": [
+      [
+        411,
+        2278
+      ],
+      [
+        2580,
+        2278
+      ],
+      [
+        2580,
+        2556
+      ],
+      [
+        411,
+        2556
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_4644b025",
+    "text": "par Parme, Modene, Bologne, Florence, Pise, Livor.",
+    "polygon": [
+      [
+        411,
+        2397
+      ],
+      [
+        2627,
+        2397
+      ],
+      [
+        2627,
+        2668
+      ],
+      [
+        411,
+        2668
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_d08bd09f",
+    "text": "no et Sienne. Je me trouve a present a Naples, pour",
+    "polygon": [
+      [
+        415,
+        2549
+      ],
+      [
+        2648,
+        2549
+      ],
+      [
+        2648,
+        2812
+      ],
+      [
+        415,
+        2812
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_f4e74040",
+    "text": "voir demain la fete du S^t Janvier, laquelle sera cele.",
+    "polygon": [
+      [
+        433,
+        2697
+      ],
+      [
+        2619,
+        2697
+      ],
+      [
+        2619,
+        2935
+      ],
+      [
+        433,
+        2935
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_b89e8145",
+    "text": "bré avec beaucoup de magnificence. Monseigneur l'Ar.",
+    "polygon": [
+      [
+        437,
+        2809
+      ],
+      [
+        2634,
+        2809
+      ],
+      [
+        2634,
+        3065
+      ],
+      [
+        437,
+        3065
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_3edd854b",
+    "text": "chevéque de Theodosie m'a reçu avec beaucoup d'affection,",
+    "polygon": [
+      [
+        440,
+        2950
+      ],
+      [
+        2645,
+        2950
+      ],
+      [
+        2645,
+        3199
+      ],
+      [
+        440,
+        3199
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_bc5c5d6d",
+    "text": "et m'a ordonné de vous faire bien ses Compliments.",
+    "polygon": [
+      [
+        455,
+        3090
+      ],
+      [
+        2609,
+        3090
+      ],
+      [
+        2609,
+        3329
+      ],
+      [
+        455,
+        3329
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_4b835b95",
+    "text": "Permettés donc, Mon Reverend Pere, que je m'acquite de",
+    "polygon": [
+      [
+        448,
+        3202
+      ],
+      [
+        2663,
+        3202
+      ],
+      [
+        2663,
+        3441
+      ],
+      [
+        448,
+        3441
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_cd64dd09",
+    "text": "cette commission, et que je vous rende grace en meme tems",
+    "polygon": [
+      [
+        451,
+        3354
+      ],
+      [
+        2663,
+        3354
+      ],
+      [
+        2663,
+        3549
+      ],
+      [
+        451,
+        3549
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_49233450",
+    "text": "d'une Recommendation qui m'est egalement honnora.",
+    "polygon": [
+      [
+        451,
+        3480
+      ],
+      [
+        2652,
+        3480
+      ],
+      [
+        2652,
+        3675
+      ],
+      [
+        451,
+        3675
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_222be520",
+    "text": "ble et utile. Au reste je ne souhaite rien plus ardamment,",
+    "polygon": [
+      [
+        462,
+        3600
+      ],
+      [
+        2692,
+        3600
+      ],
+      [
+        2692,
+        3820
+      ],
+      [
+        462,
+        3820
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_db20baa5",
+    "text": "11",
+    "polygon": [
+      [
+        2638,
+        581
+      ],
+      [
+        2721,
+        581
+      ],
+      [
+        2721,
+        714
+      ],
+      [
+        2638,
+        714
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_fa9af87e",
+    "text": "que",
+    "polygon": [
+      [
+        2460,
+        3766
+      ],
+      [
+        2587,
+        3766
+      ],
+      [
+        2587,
+        3899
+      ],
+      [
+        2460,
+        3899
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\28_4e0b8_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "ad86e63b9ca07f662ef695970826bf5c134cf962525ae7cd0cf643439e6a33f1"
+  },
+  {
+    "line_id": "eSc_line_57a7f6af",
+    "text": "Monseigneur",
+    "polygon": [
+      [
+        5263,
+        1394
+      ],
+      [
+        5891,
+        1394
+      ],
+      [
+        5891,
+        1639
+      ],
+      [
+        5263,
+        1639
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_aa872d64",
+    "text": "Ayant sceu de mons.^r de vertau, et auẽs. que tandis qu'il a",
+    "polygon": [
+      [
+        5418,
+        1555
+      ],
+      [
+        7886,
+        1555
+      ],
+      [
+        7886,
+        1783
+      ],
+      [
+        5418,
+        1783
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_4a0d24f0",
+    "text": "esté par deça aupres de monsieur de la Boderye, Monseigneur",
+    "polygon": [
+      [
+        5435,
+        1733
+      ],
+      [
+        7869,
+        1733
+      ],
+      [
+        7869,
+        1961
+      ],
+      [
+        5435,
+        1961
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_972f8295",
+    "text": "de Villeroy et vous, laviez voullu obliger, de lemployer, comme",
+    "polygon": [
+      [
+        5429,
+        1894
+      ],
+      [
+        7858,
+        1894
+      ],
+      [
+        7858,
+        2155
+      ],
+      [
+        5429,
+        2155
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_58b91187",
+    "text": "commissaire de la compagnie de Gendarmes escossois qu'entretient",
+    "polygon": [
+      [
+        5463,
+        2072
+      ],
+      [
+        7958,
+        2072
+      ],
+      [
+        7958,
+        2311
+      ],
+      [
+        5463,
+        2311
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_a045f77d",
+    "text": "le Roy, aux monstres qu'on a faict faire en Escosse a lad. compagnie",
+    "polygon": [
+      [
+        5452,
+        2239
+      ],
+      [
+        7997,
+        2239
+      ],
+      [
+        7997,
+        2506
+      ],
+      [
+        5452,
+        2506
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_a2af0d4b",
+    "text": "Ausquelles il a assisté plusieurs fois avec mess.^rs du Quier et de",
+    "polygon": [
+      [
+        5446,
+        2406
+      ],
+      [
+        8014,
+        2406
+      ],
+      [
+        8014,
+        2683
+      ],
+      [
+        5446,
+        2683
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_3afd722d",
+    "text": "la fontaine. lun mareschal des logis dicelle et lauẽ. payeur, jay",
+    "polygon": [
+      [
+        5452,
+        2583
+      ],
+      [
+        7964,
+        2583
+      ],
+      [
+        7964,
+        2867
+      ],
+      [
+        5452,
+        2867
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_8166fdf2",
+    "text": "creu, recevoir de vous ceste >< mesme faveur, apres tant d'aues̃",
+    "polygon": [
+      [
+        5452,
+        2761
+      ],
+      [
+        7908,
+        2761
+      ],
+      [
+        7908,
+        3028
+      ],
+      [
+        5452,
+        3028
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_9c204284",
+    "text": "que de succeder aud. S.^r de Vertau en ce employ, si je vous en",
+    "polygon": [
+      [
+        5457,
+        2950
+      ],
+      [
+        7908,
+        2950
+      ],
+      [
+        7908,
+        3239
+      ],
+      [
+        5457,
+        3239
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_20a29547",
+    "text": "supliois tres humblem̃. comme je faitz, en ceste croyance, que ou",
+    "polygon": [
+      [
+        5552,
+        3139
+      ],
+      [
+        7958,
+        3139
+      ],
+      [
+        7958,
+        3378
+      ],
+      [
+        5552,
+        3378
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_09777f06",
+    "text": "il y a lieu de gratiffier les vrẽs. vous y avez autant de plaisir",
+    "polygon": [
+      [
+        5557,
+        3289
+      ],
+      [
+        7975,
+        3289
+      ],
+      [
+        7975,
+        3567
+      ],
+      [
+        5557,
+        3567
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_b9aaa553",
+    "text": "qu'eux de proffit et dobligaõn. de s'en revencher par tres humble",
+    "polygon": [
+      [
+        5480,
+        3467
+      ],
+      [
+        8003,
+        3467
+      ],
+      [
+        8003,
+        3761
+      ],
+      [
+        5480,
+        3761
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_809061be",
+    "text": "service ainsy que je feray tousjours avec prieres a dieu de vous",
+    "polygon": [
+      [
+        5474,
+        3645
+      ],
+      [
+        8003,
+        3645
+      ],
+      [
+        8003,
+        3973
+      ],
+      [
+        5474,
+        3973
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_e07ff1ed",
+    "text": "donner",
+    "polygon": [
+      [
+        5496,
+        3895
+      ],
+      [
+        5807,
+        3895
+      ],
+      [
+        5807,
+        4078
+      ],
+      [
+        5496,
+        4078
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_4c9055c6",
+    "text": "Monseigneur",
+    "polygon": [
+      [
+        5285,
+        4889
+      ],
+      [
+        5907,
+        4889
+      ],
+      [
+        5907,
+        5101
+      ],
+      [
+        5285,
+        5101
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_129d9a6a",
+    "text": "En tres bonne santé longue et heureuse vye de Londres ce IIII^e",
+    "polygon": [
+      [
+        5435,
+        4978
+      ],
+      [
+        8086,
+        4978
+      ],
+      [
+        8086,
+        5267
+      ],
+      [
+        5435,
+        5267
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_f35b20c1",
+    "text": "Avril 1611",
+    "polygon": [
+      [
+        5496,
+        5212
+      ],
+      [
+        6002,
+        5212
+      ],
+      [
+        6002,
+        5495
+      ],
+      [
+        5496,
+        5495
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_fac3598f",
+    "text": "Vrẽ. tres humble ⁊ obeyssant",
+    "polygon": [
+      [
+        6652,
+        5523
+      ],
+      [
+        8075,
+        5523
+      ],
+      [
+        8075,
+        5823
+      ],
+      [
+        6652,
+        5823
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_efd2a19f",
+    "text": "serviteur de seve",
+    "polygon": [
+      [
+        6897,
+        5712
+      ],
+      [
+        7808,
+        5712
+      ],
+      [
+        7808,
+        5995
+      ],
+      [
+        6897,
+        5995
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_c47837ee",
+    "text": "160",
+    "polygon": [
+      [
+        7580,
+        744
+      ],
+      [
+        7797,
+        744
+      ],
+      [
+        7797,
+        877
+      ],
+      [
+        7580,
+        877
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\164_ddf91_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "447e61adbecb7f12f926874a7f128f6ed9dc0c5f3776d1aaa8be4823923e080c"
+  },
+  {
+    "line_id": "eSc_line_f2525ca3",
+    "text": "dont plusieurs disent que le livre <>",
+    "polygon": [
+      [
+        827,
+        1268
+      ],
+      [
+        2780,
+        1268
+      ],
+      [
+        2780,
+        1499
+      ],
+      [
+        827,
+        1499
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_9bef7ffe",
+    "text": "n'est pas digne on dit ici que",
+    "polygon": [
+      [
+        810,
+        1516
+      ],
+      [
+        2772,
+        1516
+      ],
+      [
+        2772,
+        1793
+      ],
+      [
+        810,
+        1793
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_7afd2977",
+    "text": "la censure contre le Propylarium du",
+    "polygon": [
+      [
+        814,
+        1785
+      ],
+      [
+        2696,
+        1785
+      ],
+      [
+        2696,
+        1978
+      ],
+      [
+        814,
+        1978
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_38d2aa1a",
+    "text": "P. Papebroe a passé a Rome",
+    "polygon": [
+      [
+        819,
+        1995
+      ],
+      [
+        2536,
+        1995
+      ],
+      [
+        2536,
+        2213
+      ],
+      [
+        819,
+        2213
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_26013a36",
+    "text": "nous entendismes hier la Robertine",
+    "polygon": [
+      [
+        919,
+        2205
+      ],
+      [
+        2751,
+        2205
+      ],
+      [
+        2751,
+        2452
+      ],
+      [
+        919,
+        2452
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_9d7ccbc5",
+    "text": "de m.L'abbé de louvois qui fit",
+    "polygon": [
+      [
+        772,
+        2469
+      ],
+      [
+        2587,
+        2469
+      ],
+      [
+        2587,
+        2683
+      ],
+      [
+        772,
+        2683
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_b905760f",
+    "text": "avec autant des scavoir de precision",
+    "polygon": [
+      [
+        777,
+        2713
+      ],
+      [
+        2620,
+        2713
+      ],
+      [
+        2620,
+        2940
+      ],
+      [
+        777,
+        2940
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_f9fd877e",
+    "text": "et d'elegance qu'il estoit possible m.l'abbé",
+    "polygon": [
+      [
+        781,
+        2910
+      ],
+      [
+        2801,
+        2910
+      ],
+      [
+        2801,
+        3120
+      ],
+      [
+        781,
+        3120
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_0e65a5b4",
+    "text": "de Janson y disputa et fit tres bien.",
+    "polygon": [
+      [
+        785,
+        3099
+      ],
+      [
+        2793,
+        3099
+      ],
+      [
+        2793,
+        3318
+      ],
+      [
+        785,
+        3318
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_da70338d",
+    "text": "on l eloiie beaucoup. (a mon retour",
+    "polygon": [
+      [
+        747,
+        3292
+      ],
+      [
+        2814,
+        3292
+      ],
+      [
+        2814,
+        3557
+      ],
+      [
+        747,
+        3557
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_72614b38",
+    "text": "de meaux qui sera apres l'assomption",
+    "polygon": [
+      [
+        798,
+        3519
+      ],
+      [
+        2780,
+        3519
+      ],
+      [
+        2780,
+        3733
+      ],
+      [
+        798,
+        3733
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_faaf04f1",
+    "text": "ie chercherai l'occasion de le connaitre)",
+    "polygon": [
+      [
+        806,
+        3691
+      ],
+      [
+        2751,
+        3691
+      ],
+      [
+        2751,
+        4132
+      ],
+      [
+        806,
+        4132
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\lettres-de-bossuet\\31_8894e_default.xml",
+    "subcorpus": "lettres-de-bossuet",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "3ae0aaa99df1ace75de522dad3243d1b7057f2a1c84cd4b79da6e6bc3fadea53"
+  },
+  {
+    "line_id": "eSc_line_ebe0fbac",
+    "text": "Lucretii opera dans la Bibliotheque de",
+    "polygon": [
+      [
+        1430,
+        1288
+      ],
+      [
+        2899,
+        1288
+      ],
+      [
+        2899,
+        1436
+      ],
+      [
+        1430,
+        1436
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_cde0c215",
+    "text": "la Reine de Suede noté 1662",
+    "polygon": [
+      [
+        1455,
+        1407
+      ],
+      [
+        2584,
+        1407
+      ],
+      [
+        2584,
+        1523
+      ],
+      [
+        1455,
+        1523
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_3f1b4837",
+    "text": "Je ne cesserai Mon Reverend Pere, d'estre",
+    "polygon": [
+      [
+        1107,
+        2011
+      ],
+      [
+        3080,
+        2011
+      ],
+      [
+        3080,
+        2181
+      ],
+      [
+        1107,
+        2181
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_30909842",
+    "text": "importun, et vous même en pourrés rendre",
+    "polygon": [
+      [
+        941,
+        2210
+      ],
+      [
+        3073,
+        2210
+      ],
+      [
+        3073,
+        2348
+      ],
+      [
+        941,
+        2348
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_fdda664c",
+    "text": "un fidele temoignage. Un scavant des",
+    "polygon": [
+      [
+        941,
+        2366
+      ],
+      [
+        3037,
+        2366
+      ],
+      [
+        3037,
+        2543
+      ],
+      [
+        941,
+        2543
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_9849d0ad",
+    "text": "Pais Etrangers m'a ecrit qu'il travaillait à",
+    "polygon": [
+      [
+        934,
+        2554
+      ],
+      [
+        3073,
+        2554
+      ],
+      [
+        3073,
+        2717
+      ],
+      [
+        934,
+        2717
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_00be4121",
+    "text": "donner une nouvelle edition de Lucrece, et",
+    "polygon": [
+      [
+        934,
+        2728
+      ],
+      [
+        3066,
+        2728
+      ],
+      [
+        3066,
+        2862
+      ],
+      [
+        934,
+        2862
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_be9e667a",
+    "text": "il me prie avec toute l'insistance possible de",
+    "polygon": [
+      [
+        937,
+        2905
+      ],
+      [
+        3062,
+        2905
+      ],
+      [
+        3062,
+        3093
+      ],
+      [
+        937,
+        3093
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_9cb9c7b8",
+    "text": "consulter nos plus habiles gens sur ce qu'ils",
+    "polygon": [
+      [
+        934,
+        3090
+      ],
+      [
+        3066,
+        3090
+      ],
+      [
+        3066,
+        3292
+      ],
+      [
+        934,
+        3292
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_5dcea5e7",
+    "text": "pourroient avoir de remarques sur cet",
+    "polygon": [
+      [
+        934,
+        3299
+      ],
+      [
+        3026,
+        3299
+      ],
+      [
+        3026,
+        3455
+      ],
+      [
+        934,
+        3455
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_6d2dee36",
+    "text": "auteur. Comme j'ai une extreme conside-",
+    "polygon": [
+      [
+        926,
+        3477
+      ],
+      [
+        3073,
+        3477
+      ],
+      [
+        3073,
+        3618
+      ],
+      [
+        926,
+        3618
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_1124e5f3",
+    "text": "ration pour ce scavant, et que dailleurs",
+    "polygon": [
+      [
+        941,
+        3650
+      ],
+      [
+        3069,
+        3650
+      ],
+      [
+        3069,
+        3846
+      ],
+      [
+        941,
+        3846
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_d17fe363",
+    "text": "15",
+    "polygon": [
+      [
+        2867,
+        1422
+      ],
+      [
+        2972,
+        1422
+      ],
+      [
+        2972,
+        1573
+      ],
+      [
+        2867,
+        1573
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\correspondance-dom-bernard-de-montfaucon-vol3\\36_20836_default.xml",
+    "subcorpus": "correspondance-dom-bernard-de-montfaucon-vol3",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "8d012d71e29fdc8f79a3970ab889abb18b6db7df25c3d4ce2e8dc8fc5f3928cb"
+  },
+  {
+    "line_id": "eSc_line_505763ce",
+    "text": "Monseigneur Je vous baise tres humblem^t. les mains",
+    "polygon": [
+      [
+        5092,
+        1705
+      ],
+      [
+        7688,
+        1705
+      ],
+      [
+        7688,
+        2050
+      ],
+      [
+        5092,
+        2050
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_ac8e62f6",
+    "text": "de l'honneur quil vous a pleu me faire d'avoir Intercede pour moy,",
+    "polygon": [
+      [
+        5253,
+        2005
+      ],
+      [
+        7644,
+        2005
+      ],
+      [
+        7644,
+        2239
+      ],
+      [
+        5253,
+        2239
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_f72571f0",
+    "text": "envers sa Ma.^te pour obtenir le pardon de la faulte que j'ay Commise,",
+    "polygon": [
+      [
+        5259,
+        2172
+      ],
+      [
+        7621,
+        2172
+      ],
+      [
+        7621,
+        2411
+      ],
+      [
+        5259,
+        2411
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_87a63e60",
+    "text": "Comme aussi de l'asseurance que luy avez donné que je ne retomberay",
+    "polygon": [
+      [
+        5242,
+        2344
+      ],
+      [
+        7705,
+        2344
+      ],
+      [
+        7705,
+        2561
+      ],
+      [
+        5242,
+        2561
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_b5c2f3fc",
+    "text": "Jamais a de pareilles erreurs. J'espere avec l'ayde de Dieu que vous",
+    "polygon": [
+      [
+        5142,
+        2506
+      ],
+      [
+        7716,
+        2506
+      ],
+      [
+        7716,
+        2733
+      ],
+      [
+        5142,
+        2733
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_2f2ce591",
+    "text": "ne seres point trompé en vr̃e promesse ayant infiniment proffité",
+    "polygon": [
+      [
+        5192,
+        2667
+      ],
+      [
+        7710,
+        2667
+      ],
+      [
+        7710,
+        2906
+      ],
+      [
+        5192,
+        2906
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_5713a93f",
+    "text": "en ma faulte. Mon seul regret est maintenant, que vous avez",
+    "polygon": [
+      [
+        5186,
+        2833
+      ],
+      [
+        7716,
+        2833
+      ],
+      [
+        7716,
+        3078
+      ],
+      [
+        5186,
+        3078
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_c345f983",
+    "text": "semé toutes ces faveurs, et tout plain dautres que j'ay des-ia",
+    "polygon": [
+      [
+        5203,
+        3011
+      ],
+      [
+        7694,
+        3011
+      ],
+      [
+        7694,
+        3261
+      ],
+      [
+        5203,
+        3261
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_da1c1574",
+    "text": "receu de vous, encore terre Infertille qui ne vous peult jamais",
+    "polygon": [
+      [
+        5220,
+        3178
+      ],
+      [
+        7683,
+        3178
+      ],
+      [
+        7683,
+        3406
+      ],
+      [
+        5220,
+        3406
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_df308f12",
+    "text": "rapporter aucun sorte de bien ni de service. Mais je reconnois que",
+    "polygon": [
+      [
+        5220,
+        3345
+      ],
+      [
+        7677,
+        3345
+      ],
+      [
+        7677,
+        3606
+      ],
+      [
+        5220,
+        3606
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_8b128c98",
+    "text": "cest vr̃e plus grande gloire que de faire du bien, sans autre esperance",
+    "polygon": [
+      [
+        5214,
+        3534
+      ],
+      [
+        7677,
+        3534
+      ],
+      [
+        7677,
+        3745
+      ],
+      [
+        5214,
+        3745
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_4c0686d6",
+    "text": "que de vous acquerir les Coeurs, et les volontez des hommes ; Aussi il",
+    "polygon": [
+      [
+        5192,
+        3695
+      ],
+      [
+        7699,
+        3695
+      ],
+      [
+        7699,
+        3945
+      ],
+      [
+        5192,
+        3945
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_5625793f",
+    "text": "fault que je confesse que je vous doibz le mien et tous mes voeux",
+    "polygon": [
+      [
+        5159,
+        3884
+      ],
+      [
+        7671,
+        3884
+      ],
+      [
+        7671,
+        4095
+      ],
+      [
+        5159,
+        4095
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_a5c62c9f",
+    "text": "vous estant plus obligé que personne du monde",
+    "polygon": [
+      [
+        5198,
+        4056
+      ],
+      [
+        6993,
+        4056
+      ],
+      [
+        6993,
+        4317
+      ],
+      [
+        5198,
+        4317
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_7eb94c69",
+    "text": "Suivant ce quil vous a pleu me mander par la vr̃e du 21^e du passé",
+    "polygon": [
+      [
+        5125,
+        4261
+      ],
+      [
+        7722,
+        4261
+      ],
+      [
+        7722,
+        4517
+      ],
+      [
+        5125,
+        4517
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_ecdf2036",
+    "text": "que je receu avant hier Comme sa Ma.^te estoit resolue de renvoyer",
+    "polygon": [
+      [
+        5186,
+        4434
+      ],
+      [
+        7749,
+        4434
+      ],
+      [
+        7749,
+        4650
+      ],
+      [
+        5186,
+        4650
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_9adb94e9",
+    "text": "bientost par deca Monsieur de la boderie et le Commandem.^t que",
+    "polygon": [
+      [
+        5175,
+        4589
+      ],
+      [
+        7716,
+        4589
+      ],
+      [
+        7716,
+        4823
+      ],
+      [
+        5175,
+        4823
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_a19a2874",
+    "text": "mavez fait d'en advertir Monsieur le grand Tresorier, je l'ay",
+    "polygon": [
+      [
+        5192,
+        4767
+      ],
+      [
+        7683,
+        4767
+      ],
+      [
+        7683,
+        5017
+      ],
+      [
+        5192,
+        5017
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_965f2a54",
+    "text": "esté trouver et luy ay dit comme sa Ma.^té avoit commandé a Monsieur",
+    "polygon": [
+      [
+        5186,
+        4939
+      ],
+      [
+        7744,
+        4939
+      ],
+      [
+        7744,
+        5162
+      ],
+      [
+        5186,
+        5162
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_e020a793",
+    "text": "de la boderie de se tenir prest pour partir incontinant appres ces",
+    "polygon": [
+      [
+        5164,
+        5106
+      ],
+      [
+        7733,
+        5106
+      ],
+      [
+        7733,
+        5339
+      ],
+      [
+        5164,
+        5339
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_cf8c4dd5",
+    "text": "festes de Noel, De quoy il ma tesmoigné estre fort aise, ses affaires",
+    "polygon": [
+      [
+        5159,
+        5267
+      ],
+      [
+        7666,
+        5267
+      ],
+      [
+        7666,
+        5506
+      ],
+      [
+        5159,
+        5506
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_861f7f3f",
+    "text": "d'allemaigne estant aux termes quelles sont a present,",
+    "polygon": [
+      [
+        5159,
+        5451
+      ],
+      [
+        7627,
+        5451
+      ],
+      [
+        7627,
+        5806
+      ],
+      [
+        5159,
+        5806
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  },
+  {
+    "line_id": "eSc_line_2e29d887",
+    "text": "1.^er",
+    "polygon": [
+      [
+        7416,
+        1466
+      ],
+      [
+        7610,
+        1466
+      ],
+      [
+        7610,
+        1622
+      ],
+      [
+        7416,
+        1622
+      ]
+    ],
+    "baseline": [],
+    "image_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.jpg",
+    "xml_path": "data\\raw\\CREMMA-MSS-17\\data\\dépêches-originales-adressées-à-la-cour-par-divers\\4_13760_default.xml",
+    "subcorpus": "dépêches-originales-adressées-à-la-cour-par-divers",
+    "source": "HTR-United/CREMMA-MSS-17",
+    "license": "CC-BY 4.0",
+    "sha256_xml": "89ed30571cc793748be566117ab75c859df8d7bc92599f947c11cab53d93fdf2"
+  }
+]

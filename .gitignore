@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# Données lourdes (versionnées via DVC ou SHA-256)
+data/raw/*.tiff
+data/raw/*.jpg
+data/raw/*.jpeg
+data/raw/*.png
+*.pt
+*.mlmodel
+
+# Modèles (publier sur HuggingFace à la place)
+models/
+
+# Sorties
+output/
+*_output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/

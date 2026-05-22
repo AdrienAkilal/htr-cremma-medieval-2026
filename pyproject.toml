@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "htr-cremma-medieval-2026"
+version = "0.1.0"
+description = "Pipeline HTR pour manuscrits médiévaux français — CREMMA Medieval"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Équipe MD5 HETIC 2026" }
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--cov=src --cov-report=term-missing"
+
+[tool.setuptools.packages.find]
+where = ["src"]

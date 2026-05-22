@@ -1,0 +1,3 @@
+[submodule "data/raw/CREMMA-MSS-17"]
+	path = data/raw/CREMMA-MSS-17
+	url = https://github.com/HTR-United/CREMMA-MSS-17.git
