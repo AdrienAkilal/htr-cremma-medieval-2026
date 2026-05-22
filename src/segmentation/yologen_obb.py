@@ -4,6 +4,9 @@ import json
 from pathlib import Path
 from collections import defaultdict
 
+from dotenv import load_dotenv
+load_dotenv()
+
 import numpy as np
 from PIL import Image
 import matplotlib

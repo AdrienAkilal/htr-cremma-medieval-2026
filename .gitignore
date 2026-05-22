@@ -26,6 +26,9 @@ output/
 .idea/
 *.swp
 
+# Variables d'environnement — ne jamais commiter
+.env
+
 # OS
 .DS_Store
 Thumbs.db
