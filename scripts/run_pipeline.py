@@ -132,12 +132,45 @@ def main():
     Path("dataset_nlp").mkdir(exist_ok=True)
     save_data_contract(contract, f"dataset_nlp/{stem}.json")
 
+    # ── Sortie texte lisible ──────────────────────────────────────────────────
+    txt_out = out_dir / f"{stem}_transcription.txt"
+    _save_transcription_txt(txt_out, contract, model_path)
+
     print(f"\n{'='*55}")
     print(f"  ✅  Pipeline terminé")
     print(f"  Lignes : {contract['stats']['n_lines']}")
     print(f"  needs_review : {contract['stats']['needs_review_rate']*100:.1f}%")
     print(f"  Confiance moy : {contract['stats']['mean_confidence']:.3f}")
+    print(f"  Sortie texte  : {txt_out}")
     print(f"{'='*55}\n")
+
+
+def _save_transcription_txt(path: Path, contract: dict, model_path: str) -> None:
+    """Sauvegarde un fichier texte lisible du résultat de transcription."""
+    from datetime import datetime
+    stats = contract["stats"]
+    lines = contract["lines"]
+
+    header = (
+        f"{'='*60}\n"
+        f"  Transcription HTR — {contract['image']}\n"
+        f"  Date    : {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+        f"  Modèle  : {model_path}\n"
+        f"  Lignes  : {stats['n_lines']}\n"
+        f"  Conf.   : {stats['mean_confidence']:.3f}\n"
+        f"  Review  : {stats['n_needs_review']} lignes "
+        f"({stats['needs_review_rate']*100:.1f}%)\n"
+        f"{'='*60}\n\n"
+    )
+
+    body = ""
+    for line in lines:
+        flag = " ⚠" if line["needs_review"] else "  "
+        body += f"[{line['confidence']:.2f}]{flag}  {line['text']}\n"
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(header + body, encoding="utf-8")
+    print(f"📄  Transcription texte → {path}")
 
 
 if __name__ == "__main__":

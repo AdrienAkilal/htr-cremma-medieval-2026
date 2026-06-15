@@ -232,8 +232,21 @@ def transcribe(image_path: str,
         })
 
     n_review = sum(1 for r in results if r["needs_review"])
+    mean_conf = round(
+        sum(r["confidence"] for r in results) / max(len(results), 1), 4
+    )
     print(f"✅  {len(results)} ligne(s) transcrite(s) — "
           f"{n_review} needs_review ({100*n_review/max(len(results),1):.1f}%)")
+
+    _log_experiment({
+        "type": "transcription",
+        "image": image_path,
+        "model": model_path,
+        "n_lines": len(results),
+        "n_needs_review": n_review,
+        "mean_confidence": mean_conf,
+    })
+
     return results
 
 
