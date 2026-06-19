@@ -68,16 +68,14 @@ def segment_page(image_path: str,
 
     img = Image.open(str(path)).convert("RGB")
 
-    # Chargement du modèle BLLA
-    # Si model_name est un chemin local, on l'utilise directement
-    # Sinon Kraken télécharge le modèle par défaut
+    # Segmentation BLLA
+    # Si model_name est un chemin local, on charge ce modèle
+    # Sinon Kraken utilise son modèle BLLA intégré (API Kraken 4.x)
     if Path(model_name).exists():
         model = kraken_models.load_any(model_name)
+        baseline_seg = blla.segment(img, model=model)
     else:
-        model = blla.load_default_model()
-
-    # Segmentation BLLA
-    baseline_seg = blla.segment(img, model=model)
+        baseline_seg = blla.segment(img)
 
     # Conversion en format interne
     lines = []
@@ -103,7 +101,6 @@ def segment_page(image_path: str,
         out_path = Path(xml_out)
         out_path.parent.mkdir(parents=True, exist_ok=True)
         page_xml = serialize(baseline_seg,
-                             image_name=path.name,
                              image_size=img.size,
                              template="pagexml")
         out_path.write_text(page_xml, encoding="utf-8")

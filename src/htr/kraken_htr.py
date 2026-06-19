@@ -30,7 +30,7 @@ from PIL import Image
 
 
 # Seuil de confiance en dessous duquel une ligne est marquée needs_review
-CONFIDENCE_THRESHOLD = 0.80
+CONFIDENCE_THRESHOLD = 0.90
 
 
 def fine_tune(train_manifest: str,
@@ -212,15 +212,14 @@ def transcribe(image_path: str,
 
         preds = list(rpred.rpred(network=model,
                                   im=img,
-                                  segmentation=seg,
+                                  bounds=seg,
                                   pad=16))
 
         if preds:
             pred = preds[0]
             text       = pred.prediction
-            confidence = float(
-                sum(c for _, c in pred.cuts) / len(pred.cuts)
-            ) if pred.cuts else 0.0
+            raw_conf   = sum(pred.confidences) / len(pred.confidences) if pred.confidences else 0.0
+            confidence = float(raw_conf ** 1.3)
         else:
             text, confidence = "", 0.0
 

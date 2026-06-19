@@ -34,6 +34,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+from src.htr.kraken_htr import CONFIDENCE_THRESHOLD
+
 
 # ── Parsing des arguments ─────────────────────────────────────────────────────
 
@@ -123,14 +125,15 @@ def match_lines(preds, gt_lines: list[str]) -> list[dict]:
             used_gt.add(best_j)
 
         rows.append({
-            "line_idx":  i + 1,
-            "pred":      hyp,
-            "gt":        gt,
-            "gt_idx":    best_j,
-            "gt_reused": gt_reused,
-            "conf":      round(conf, 4),
-            "acc":       acc,
-            "cer":       round(cer, 4) if cer is not None else None,
+            "line_idx":     i + 1,
+            "pred":         hyp,
+            "gt":           gt,
+            "gt_idx":       best_j,
+            "gt_reused":    gt_reused,
+            "conf":         round(conf, 4),
+            "needs_review": conf < CONFIDENCE_THRESHOLD or len(hyp) < 2,
+            "acc":          acc,
+            "cer":          round(cer, 4) if cer is not None else None,
         })
 
     return rows, used_gt
@@ -189,21 +192,22 @@ def save_txt(path: Path, data: dict) -> None:
             f"  CER global        : {data['global_cer']*100:.1f}%",
             f"  Acc globale (CER) : {data['global_acc']*100:.1f}%",
             f"  Acc moy / ligne   : {data['avg_acc_per_line']*100:.1f}%",
-            f"  GT non matchées   : {data['gt_unmatched_idx']}",
+            f"  GT non matchees   : {data['gt_unmatched_idx']}",
         ]
     lines += [f"{'='*62}", ""]
 
     for r in data["lines"]:
-        flag     = " ⚠ GT réutilisée" if r["gt_reused"] else ""
-        acc_str  = f" | Acc: {r['acc']:.2f} | CER: {r['cer']:.2f}" if r["cer"] is not None else ""
-        lines.append(f"Ligne {r['line_idx']:>2} | Conf: {r['conf']:.2f}{acc_str}{flag}")
+        review_flag = " [REVIEW]" if r.get("needs_review") else ""
+        gt_flag     = " [GT reutilisee]" if r["gt_reused"] else ""
+        acc_str     = f" | Acc: {r['acc']:.2f} | CER: {r['cer']:.2f}" if r["cer"] is not None else ""
+        lines.append(f"Ligne {r['line_idx']:>2} | Conf: {r['conf']:.2f}{acc_str}{review_flag}{gt_flag}")
         lines.append(f"  PRED : {r['pred']}")
         if has_gt:
             lines.append(f"  GT   : {r['gt']}")
         lines.append("")
 
     path.write_text("\n".join(lines), encoding="utf-8")
-    print(f"📄  Transcription texte  → {path}")
+    print(f"[TXT]  Transcription texte  -> {path}")
 
 
 # ── Journal ───────────────────────────────────────────────────────────────────
@@ -224,7 +228,7 @@ def log_run(data: dict) -> None:
     }
     with open(journal, "a", encoding="utf-8") as f:
         f.write(json.dumps(entry, ensure_ascii=False) + "\n")
-    print(f"📋  Journal mis à jour   → {journal}")
+    print(f"[LOG]  Journal mis a jour   -> {journal}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -242,8 +246,8 @@ def main():
     if model_path is None:
         candidates = sorted(Path("models").glob("**/*.mlmodel"))
         if not candidates:
-            print("❌  Aucun modèle .mlmodel trouvé dans models/")
-            print("   Lancez d'abord l'entraînement ou précisez --model")
+            print("[ERR]  Aucun modele .mlmodel trouve dans models/")
+            print("   Lancez d'abord l'entrainement ou precisez --model")
             sys.exit(1)
         # Préférer le dernier checkpoint (numéro le plus élevé)
         model_path = str(
@@ -266,10 +270,10 @@ def main():
     if args.xml:
         xml_path = Path(args.xml)
         if not xml_path.exists():
-            print(f"⚠️  Fichier XML introuvable : {xml_path} — GT ignorée")
+            print(f"[WARN]  Fichier XML introuvable : {xml_path} -- GT ignoree")
         else:
             gt_lines = load_gt_lines(str(xml_path))
-            print(f"   Vérités terrain : {len(gt_lines)} lignes")
+            print(f"   Verites terrain : {len(gt_lines)} lignes")
 
     # HTR
     print("\n[ 1/3 ] Segmentation + transcription (Kraken)…")
@@ -278,14 +282,14 @@ def main():
     print(f"   Prédictions       : {len(preds)}")
 
     # Alignement GT
-    print("\n[ 2/3 ] Alignement GT ↔ PRED…")
+    print("\n[ 2/3 ] Alignement GT <-> PRED...")
     rows, used_gt = match_lines(preds, gt_lines)
 
     # Affichage console
     for r in rows:
-        flag    = " ⚠️ GT déjà utilisée" if r["gt_reused"] else ""
+        flag    = " [GT deja utilisee]" if r["gt_reused"] else ""
         acc_str = f" | Acc: {r['acc']:.2f} | CER: {r['cer']:.2f}" if r["cer"] is not None else ""
-        print(f"Ligne {r['line_idx']:>2} | Conf: {r['conf']:.2f}{acc_str} | GT matchée: #{r['gt_idx']}{flag}")
+        print(f"Ligne {r['line_idx']:>2} | Conf: {r['conf']:.2f}{acc_str} | GT matchee: #{r['gt_idx']}{flag}")
         print(f"  PRED : {r['pred']}")
         if gt_lines:
             print(f"  GT   : {r['gt']}")
@@ -294,25 +298,25 @@ def main():
     data = build_output_json(str(image_path), model_path, rows, gt_lines, used_gt)
 
     if gt_lines:
-        print(f"{'═'*50}")
+        print(f"{'='*50}")
         print(f"CER global       : {data['global_cer']:.4f} ({data['global_cer']*100:.1f}%)")
         print(f"Acc globale (CER): {data['global_acc']:.4f} ({data['global_acc']*100:.1f}%)")
         print(f"Acc moyenne/ligne: {data['avg_acc_per_line']:.4f} ({data['avg_acc_per_line']*100:.1f}%)")
-        print(f"GT non matchées  : {data['gt_unmatched_idx']}")
-        print(f"{'═'*50}\n")
+        print(f"GT non matchees  : {data['gt_unmatched_idx']}")
+        print(f"{'='*50}\n")
 
     # Sauvegarde des outputs
-    print("[ 3/3 ] Sauvegarde des outputs…")
+    print("[ 3/3 ] Sauvegarde des outputs...")
 
     # 1. Copie de l'image
     img_dest = out_dir / image_path.name
     shutil.copy2(image_path, img_dest)
-    print(f"🖼   Image copiée        → {img_dest}")
+    print(f"[IMG]  Image copiee        -> {img_dest}")
 
     # 2. JSON complet
     json_dest = out_dir / f"{stem}_output.json"
     json_dest.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"📊  JSON résultats       → {json_dest}")
+    print(f"[JSON] Resultats           -> {json_dest}")
 
     # 3. Texte lisible
     txt_dest = out_dir / f"{stem}_transcription.txt"
@@ -322,7 +326,7 @@ def main():
     log_run(data)
 
     print(f"\n{'='*62}")
-    print(f"  ✅  Outputs sauvegardés dans : {out_dir}/")
+    print(f"  OK  Outputs sauvegardes dans : {out_dir}/")
     print(f"{'='*62}\n")
 
 

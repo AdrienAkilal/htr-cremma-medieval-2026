@@ -23,6 +23,7 @@ from src.htr.kraken_htr import transcribe
 from src.aggregation.aggregate import (
     build_data_contract, save_data_contract, export_page_xml
 )
+from src.nlp.normalize import process_contract
 
 
 def parse_args():
@@ -41,9 +42,9 @@ def main():
     fixer_seeds(args.seed)
 
     image_path = args.image
-    out_dir    = Path(args.out_dir)
+    stem       = Path(image_path).stem
+    out_dir    = Path(args.out_dir) / stem
     out_dir.mkdir(parents=True, exist_ok=True)
-    stem = Path(image_path).stem
 
     print(f"\n{'='*55}")
     print(f"  Pipeline HTR — {Path(image_path).name}")
@@ -90,7 +91,7 @@ def main():
 
     # ── Étape 3 : Segmentation lignes (Kraken BLLA) ───────────────────────────
     print("\n[ 3/5 ] Segmentation des lignes (Kraken BLLA)…")
-    xml_out = str(out_dir / f"{stem}.page.xml")
+    xml_out = str(out_dir / f"{stem}_segmentation.page.xml")
     try:
         lines = segment_page(preprocessed_path, xml_out=xml_out)
         lines = validate_polygons(lines, preprocessed_path)
@@ -126,15 +127,25 @@ def main():
         layout_regions=layout_regions,
     )
     save_data_contract(contract, str(out_dir / f"{stem}_data_contract.json"))
-    export_page_xml(contract, str(Path("segmentations") / f"{stem}.page.xml"))
-
-    # Copie dans dataset_nlp/ pour le module NLP
-    Path("dataset_nlp").mkdir(exist_ok=True)
-    save_data_contract(contract, f"dataset_nlp/{stem}.json")
+    export_page_xml(contract, str(out_dir / f"{stem}_transcription_cv.page.xml"))
 
     # ── Sortie texte lisible ──────────────────────────────────────────────────
     txt_out = out_dir / f"{stem}_transcription.txt"
     _save_transcription_txt(txt_out, contract, model_path)
+
+    # ── Étape 6 : Normalisation NLP ──────────────────────────────────────────
+    print("\n[ 6/6 ] Normalisation NLP des transcriptions…")
+    nlp_output = process_contract(contract)
+
+    nlp_json_out = out_dir / f"{stem}_nlp_normalized.json"
+    import json as _json
+    nlp_json_out.write_text(
+        _json.dumps(nlp_output, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"📊  NLP JSON normalisé   → {nlp_json_out}")
+
+    final_txt_out = out_dir / f"{stem}_final_transcription.txt"
+    _save_final_transcription_txt(final_txt_out, nlp_output)
 
     print(f"\n{'='*55}")
     print(f"  ✅  Pipeline terminé")
@@ -142,7 +153,43 @@ def main():
     print(f"  needs_review : {contract['stats']['needs_review_rate']*100:.1f}%")
     print(f"  Confiance moy : {contract['stats']['mean_confidence']:.3f}")
     print(f"  Sortie texte  : {txt_out}")
+    print(f"  NLP normalisé : {nlp_json_out}")
+    print(f"  Transcription finale : {final_txt_out}")
     print(f"{'='*55}\n")
+
+
+def _save_final_transcription_txt(path: Path, nlp_output: dict) -> None:
+    """Sauvegarde la transcription finale normalisée (sortie du module NLP)."""
+    from datetime import datetime
+    stats = nlp_output["stats"]
+
+    header = (
+        f"{'='*60}\n"
+        f"  Transcription finale normalisée — {nlp_output['image']}\n"
+        f"  Date    : {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+        f"  Lignes  : {stats['n_lines']} "
+        f"(traitées : {stats['n_processed']}, "
+        f"review : {stats['n_skipped_review']})\n"
+        f"  Corrections NLP : {stats['n_corrections']}\n"
+        f"{'='*60}\n\n"
+    )
+
+    body = ""
+    for line in nlp_output["lines"]:
+        if line["needs_review"]:
+            flag = " [REVIEW — non normalisé]"
+        else:
+            n = len(line["corrections_appliquees"])
+            flag = f" [{n} correction(s)]" if n else ""
+        lang = "/".join(line["langue_detectee"])
+        body += (
+            f"[{line['confidence']:.2f}][{lang}]{flag}\n"
+            f"  {line['transcription_normalisee']}\n\n"
+        )
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(header + body, encoding="utf-8")
+    print(f"📄  Transcription finale → {path}")
 
 
 def _save_transcription_txt(path: Path, contract: dict, model_path: str) -> None:
